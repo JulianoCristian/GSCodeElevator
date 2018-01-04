@@ -1,0 +1,2 @@
+# GSCodeElevator
+GameSparks Configuration Inspector
